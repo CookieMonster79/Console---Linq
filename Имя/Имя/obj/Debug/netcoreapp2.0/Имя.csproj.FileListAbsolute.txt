@@ -1,0 +1,10 @@
+C:\Users\Хогард\source\repos\Имя\Имя\bin\Debug\netcoreapp2.0\Имя.deps.json
+C:\Users\Хогард\source\repos\Имя\Имя\bin\Debug\netcoreapp2.0\Имя.runtimeconfig.json
+C:\Users\Хогард\source\repos\Имя\Имя\bin\Debug\netcoreapp2.0\Имя.runtimeconfig.dev.json
+C:\Users\Хогард\source\repos\Имя\Имя\bin\Debug\netcoreapp2.0\Имя.dll
+C:\Users\Хогард\source\repos\Имя\Имя\bin\Debug\netcoreapp2.0\Имя.pdb
+C:\Users\Хогард\source\repos\Имя\Имя\obj\Debug\netcoreapp2.0\Имя.csproj.CoreCompileInputs.cache
+C:\Users\Хогард\source\repos\Имя\Имя\obj\Debug\netcoreapp2.0\Имя.AssemblyInfoInputs.cache
+C:\Users\Хогард\source\repos\Имя\Имя\obj\Debug\netcoreapp2.0\Имя.AssemblyInfo.cs
+C:\Users\Хогард\source\repos\Имя\Имя\obj\Debug\netcoreapp2.0\Имя.dll
+C:\Users\Хогард\source\repos\Имя\Имя\obj\Debug\netcoreapp2.0\Имя.pdb
